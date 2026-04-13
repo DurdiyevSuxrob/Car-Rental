@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+}
+.div-1 {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: auto;
+    width: 900px;
+    height: 650px;
+    border: solid  red 3px;
+}
+.div-2  {
+    background-color: aqua;
+    padding: 20px;
+    margin: 10px;
+}
+h4 {
+    color: red;
+    text-decoration: underline;
+}
+table {
+    background-color: antiquewhite;
+    color: aliceblue;
+    padding: 10px;
+    color: black;
+    width: 100%;
+}
+th {
+    background-color: brown;
+    text-decoration: underline;
+}
+.div-3 {
+    background-color: aqua;
+    padding: 20px;
+    margin: 10px;
+    height: 250px;
+    margin-top: 20px;
+}
+input {
+    background-color: aquamarine;
+    width: 600px;
+    border: solid green;
+    
+}
+.div {
+    width: 100px;
+}
+
+

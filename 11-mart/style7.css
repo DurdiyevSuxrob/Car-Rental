@@ -1,0 +1,22 @@
+* {
+
+}
+.main {
+    width: 1200px;
+    height: 900px;
+    border: 2px solid black;
+    margin: 30px auto;
+}
+h1 {text-align: center;}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: snow;
+    font-weight: 700;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px groove rgb(0, 0, 0);
+}

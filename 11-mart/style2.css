@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.div1 {
+    width: 80%;
+    height: 800px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 20px;
+}
+.div1:hover {
+    background-color: rgb(146, 187, 104);
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+}
+.div2 img {
+    width: 250px;
+    height: 60x;
+    border-radius: 20px;
+    visibility: hidden;
+}
+.div2 {
+    width: 300px;
+    height: 320px;
+    box-shadow: 6px 6px 6px rgb(148, 147, 145);
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    float: left;
+    margin: 20px;
+}
+p {
+    font-size: 20px;
+    margin: 30px;
+}
+.div2:hover {
+    background-color: rgb(162, 206, 206);
+    transition: 2s;
+}
+.div2:hover img { 
+    visibility: visible;
+    transition: 5s;
+}

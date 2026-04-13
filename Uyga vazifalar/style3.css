@@ -1,0 +1,68 @@
+body {
+    background: linear-gradient(rgb(252, 251, 250), rgb(204, 230, 72));
+}
+.div1 {
+    box-sizing: border-box;
+    width: 400px;
+    height: 250px;
+    margin: 50px auto;
+    border: solid black 1px;
+    border-radius: 25px;
+    padding-left: 20px;
+    background: linear-gradient(45deg, rgb(80, 82, 148), rgb(19, 4, 228));
+    color: aliceblue;
+}
+.p1 {
+    display: inline;
+    font-size: 20px;
+}
+.p2 {
+    display: inline-block;
+    padding-left: 200px;
+    font-size: 20px;
+}
+.div2 {
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(90deg, rgb(209, 200, 138), rgb(218, 176, 8));
+    display: inline-block;
+}
+.div3 {
+    width: 10px;
+    height: 10px;
+    background: linear-gradient(90deg, rgb(235, 233, 233), rgb(81, 153, 164));
+    display: inline-block;
+    margin-left: 20px;
+}
+.div4 {
+    width: 10px;
+    height: 10px;
+    background: linear-gradient(90deg, rgb(235, 233, 233), rgb(81, 153, 164));
+    display: inline-block;
+    margin-left: 5px;
+}
+.div5 {
+    width: 10px;
+    height: 10px;
+    background: linear-gradient(90deg, rgb(235, 233, 233), rgb(81, 153, 164));
+    display: inline-block;
+    margin-left: 5px;
+}
+.p3 {
+    color: aliceblue;
+    font-size: 20px;
+}
+.p4 {
+    color: aliceblue;
+    display: inline-block;
+}
+.p6 {
+    color: aliceblue;
+    display: inline-block;
+    padding-left: 159px;
+}
+.bir {
+    text-align: center;
+    color: aliceblue;
+    background-color: blue;
+}

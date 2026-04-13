@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+.h1 {
+    color: darkred;
+    text-align: center;
+}
+.div1 {
+    background: linear-gradient(95deg,  green, yellow, blue, red);
+}

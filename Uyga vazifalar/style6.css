@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.div1 {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(24, 248, 8);
+    margin: 100px auto;
+    box-shadow: 20px 30px 30px rgb(163, 163, 163);
+    border-radius: 30px;
+    text-align: center;
+}
+.div1:hover {
+    background-image: url(../home.jpg);
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    transition: 5s;
+    text-align: center;
+    padding: 150px;
+    color: aliceblue;
+    text-transform: uppercase;
+    
+}
